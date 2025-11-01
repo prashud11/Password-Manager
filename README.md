@@ -1,4 +1,4 @@
-# Password Manager - Starter
+# Password Manager 
 
 A minimal desktop password manager in Python with Tkinter and SQLite. 
 Secrets are encrypted with a key derived from a master password using PBKDF2-HMAC-SHA256. 
